@@ -13,3 +13,6 @@ https://www.kaggle.com/datasets/joebeachcapital/students-performance
 Our project comprised of using linear regression models in order to accurately predict a students
 future score on a upcoming test, by examing their study habits, and their scores on previous tests.
 We used the data sets that was provided and integrated machine learning to do so. 
+
+
+![image](https://github.com/Jai-Mahajan/TidalTAMU-Hack-A-Thon-Projected-Grades/assets/144373309/1b7a5500-99d7-4c15-b192-9fc636be67e4)
